@@ -8,7 +8,7 @@ WIZnet is recognized as the 'de facto standard' in the IoT space, offering TOE (
 
 ## Library
 * [ioLibrary Driver (Internet Offload Library for WIZnet chip)](https://github.com/Wiznet/ioLibrary_Driver)<br/>
-  Supported Chips : W5500, W5300, W5200, W5100, W5100S<br/><br/>
+  Supported Chips : W6300, W6100, W5500, W5300, W5200, W5100, W5100S<br/><br/>
 * [io6Library (IPv6 integrated Library for WIZnet chip)](https://github.com/Wiznet/io6Library)<br/>
   Supported Chips : W6100
 
