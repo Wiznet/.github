@@ -30,6 +30,6 @@ WIZnet is recognized as the 'de facto standard' in the IoT space, offering TOE (
 
 :office: To learn about the full range of products and services that WIZnet offers, please visit our [official website](https://wiznet.io/).
 
-:question: For technical support inquiries, please click [here](92j83.channel.io) or click the button at the bottom right of the [official website](https://wiznet.io/) to leave your message.
+:question: For technical support inquiries, please click [here](https://92j83.channel.io/home) or click the button at the bottom right of the [official website](https://wiznet.io/) to leave your message.
 
 :question: You can also leave your inquiries on our [forum](https://maker.wiznet.io/forum?searchWord=&flag=a&dateType=ad&term=a&tags=&category=&page=1) site.
